@@ -1,5 +1,5 @@
 <h1 style='color:blue'>𓂀 𝓓𝓲𝓪𝓶𝓸𝓷𝓭 𝓟𝓻𝓲𝓬𝓮 𝓟𝓻𝓮𝓭𝓲𝓬𝓽𝓲𝓸𝓷 𓂀</h1>
-<img align="right" width="400" height="400" src="">
+<img align="right" width="400" height="400" src="https://github.com/SinghPriya5/Diamond_Price_Prediction/blob/main/static/images/2acca69efdfafcd6e527edd2c024b204_w200.webp">
 
 ## Table of content
 * [Problem Statement](#Problem-statement)
