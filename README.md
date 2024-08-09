@@ -31,10 +31,15 @@
 
 ## Goal:
 The main goals of diamond price prediction using machine learning are:
+
 <b>1.Accurate Pricing:</b> Predict diamond prices based on features like carat, cut, color, and clarity,depth.
+
 <b>2.Market Insights:</b> Understand how different attributes impact pricing to inform buying and selling decisions.
+
 <b>3.Automation:</b> Automate the valuation process for quicker, more efficient pricing.
+
 <b>4.Fair Trade:</b> Ensure transparent and fair pricing in the diamond market.
+
 <b>5.Customer Guidance:</b> Provide buyers with price estimates to help them make informed purchasing decisions.
 
 ## Approach:
@@ -47,17 +52,29 @@ learning algorithms that’s best fit for the above case.
 <li><b>Dataset link :</b></li> - [Dataset](https://github.com/SinghPriya5/Diamond_Price_Prediction/commit/e4dc6a257d6b35cb57e66826a7ac36eb393ff225#diff-39848c601d6cbb866f8bad5bbb176d61062a4169f64fd86a5fffbae77eff78e8)
 <li><b>Dataset:</b></li> Obtain a dataset containing various diamond attributes and their corresponding prices.
 <li><b>Example Features:</b></li>
+   
 <b>id :</b> unique identifier of each diamond
+
 <b>carat :</b> Carat (ct.) refers to the unique unit of weight measurement used exclusively to weigh gemstones and diamonds.
+
 <b>cut :</b> Quality of Diamond Cut
+
 <b>color :</b> Color of Diamond
+
 <b>clarity :</b> Diamond clarity is a measure of the purity and rarity of the stone, graded by the visibility of these characteristics under 10-power magnification.
+
 <b>depth :</b> The depth of diamond is its height (in millimeters) measured from the culet (bottom tip) to the table (flat, top surface)
+
 <b>table :</b> A diamond's table is the facet which can be seen when the stone is viewed face up.
+
 <b>x :</b> Diamond X dimension
+
 <b>y :</b> Diamond Y dimension
+
 <b>x :</b> Diamond Z dimension
+
 <li><b>Target variable:</b></li>
+
 <b>price:</b> Price of the given Diamond.
 </ul>
 
@@ -69,7 +86,9 @@ Ploted colleration matrix to get insights about dependend and independed variabl
 
 ## Model Training
 <b>Split Data:</b> Divide the dataset into training and test sets (80% training, 20% testing).
+
 <b>Model Training:</b> Train the selected models using the training data.
+
 <b>Hyperparameter Tuning:</b> Using Randomizedsearch CV to select the best parameter for training the model.
 
 ## Model Evaluation
@@ -93,6 +112,7 @@ Jupyter Notebook,VS Code,PyCham
 
 ## Deployed:
 Deployed on heroku -- [Link](https://flight-fare-prediction.herokuapp.com/)
+
 <br> the instruction given on [Heroku Documentation](https://devcenter.heroku.com/articles/getting-started-with-python) to deploy a web app.
 
 <b>Model Deployment:</b> Deploy the model to a production environment where it can make real-time predictions.
