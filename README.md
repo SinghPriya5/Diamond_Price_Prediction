@@ -110,6 +110,7 @@ Jupyter Notebook,VS Code,PyCham
 
 ## Continuous Improvement
 <b>Model Monitoring:</b> Track the model’s performance over time to ensure it remains accurate.
+
 <b>Retraining: Periodically retrain the model with new data to maintain accuracy as market conditions change.</b>
 
 ## Deployed:
