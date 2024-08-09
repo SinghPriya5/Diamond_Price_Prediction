@@ -2,21 +2,22 @@
 <img align="right" width="400" height="400" src="https://github.com/SinghPriya5/Diamond_Price_Prediction/blob/main/static/images/2acca69efdfafcd6e527edd2c024b204_w200.webp">
 
 ## Table of content
-* [Problem Statement](#Problem-statement)
+* [Problem Statement](#Problem-Statement)
 * [Goal](#Goal)
 * [Approach](#Approach)
-* [Data Collection](#Dataset)
+* [Data Collection](#Data-Collection)
 * [Project Various Step](#project-various-step)
-    * [Data Visualization](#data-visualization)
-    * [Model Training](#model-training)
-    * [Model Selection](#Model-Selection)
+    * [Data Visualization](#Data-Visualization)
+    * [Model Training](#Model-Training)
     * [Model Evalution](#Model-Evaluation)
-    * [Model Dump](#model-dump)
+    * [Model Selection](#Model-Selection)
+    * [Model Dump](#Model-Dump)
 * [Idle used](#idle-used)
 * [(Model Accuracy](#Model-Accuracy)
-*  [Continuous Improvement](#Continuous-Improvement)
-* [Model Interpretation](#ModelInterpretation)
+* [Continuous Improvement](#Continuous-Improvement)
 * [Deployed](#Deployed)
+* [Model Interpretation](#Model-Interpretation)
+* [Web View](#Web-View)
 * [Bug or Feature Request](#Bug-or-Feature-Request)
 * [Future Scope](#Future-Scope)
 * [Conclusion](#Conclusion)
@@ -81,22 +82,26 @@ Made many models but selected Random Forest Regressor.
 As per selected trained model is dumped to joblib format for app development
 
 ## Idle used
-Jupyter Notebook
+Jupyter Notebook,VS Code,PyCham
 
 ## Model Accuracy
+95%
 
 ## Continuous Improvement
 <b>Model Monitoring:</b> Track the model’s performance over time to ensure it remains accurate.
 <b>Retraining: Periodically retrain the model with new data to maintain accuracy as market conditions change.</b>
 
 ## Deployed:
-Deployed on heroku -- [Link]/)
-<br> the instruction given on [Link) to deploy a web app.
+Deployed on heroku -- [Link](https://flight-fare-prediction.herokuapp.com/)
+<br> the instruction given on [Heroku Documentation](https://devcenter.heroku.com/articles/getting-started-with-python) to deploy a web app.
+
 <b>Model Deployment:</b> Deploy the model to a production environment where it can make real-time predictions.
+
 <b>APIs:</b> Develop an API that allows users to input diamond features and receive a predicted price.
 
 ## Model Interpretation
 <b>Feature Importance:</b>Identify which features most influence the price prediction using techniques like feature importance scores in tree-based models or SHAP values.
+
 <b>Partial Dependence Plots:</b>Visualize how changes in a single feature affect the predicted price, holding other features constant.
 
 ## Web View:
