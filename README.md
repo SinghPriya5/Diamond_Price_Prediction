@@ -50,7 +50,9 @@ learning algorithms that’s best fit for the above case.
 ## Data Collection:
 <ul>
 <li><b>Dataset link :</b></li> - [Dataset](https://github.com/SinghPriya5/Diamond_Price_Prediction/commit/e4dc6a257d6b35cb57e66826a7ac36eb393ff225#diff-39848c601d6cbb866f8bad5bbb176d61062a4169f64fd86a5fffbae77eff78e8)
+   
 <li><b>Dataset:</b></li> Obtain a dataset containing various diamond attributes and their corresponding prices.
+
 <li><b>Example Features:</b></li>
    
 <b>id :</b> unique identifier of each diamond
@@ -125,10 +127,10 @@ Deployed on heroku -- [Link](https://flight-fare-prediction.herokuapp.com/)
 <b>Partial Dependence Plots:</b>Visualize how changes in a single feature affect the predicted price, holding other features constant.
 
 ## Web View:
-<img align="center" width="300" height="400" src="https://github.com/SinghPriya5/Diamond_Price_Prediction/blob/main/static/images/Frontend.png"> &nbsp;&nbsp;&nbsp; <!-- Three non-breaking spaces --><img align="center" width="300" height="400" src="https://github.com/SinghPriya5/Diamond_Price_Prediction/blob/main/static/images/Frontend.png"> &nbsp;&nbsp;&nbsp; <!-- Three non-breaking spaces --><img align="center" width="300" height="400" src="https://github.com/SinghPriya5/Diamond_Price_Prediction/blob/main/static/images/Frontend.png">
+<img align="center" width="300" height="400" src="https://github.com/SinghPriya5/Diamond_Price_Prediction/blob/main/static/images/Frontend.png"> &nbsp;&nbsp;&nbsp; <!-- Three non-breaking spaces --><img align="center" width="300" height="400" src="https://github.com/SinghPriya5/Diamond_Price_Prediction/blob/main/static/images/Frontend1.png"> &nbsp;&nbsp;&nbsp; <!-- Three non-breaking spaces --><img align="center" width="300" height="400" src="https://github.com/SinghPriya5/Diamond_Price_Prediction/blob/main/static/images/Frontend2.png">
 ## Bug or Feature Request
-If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an 
-[issue](https://github.com/maityanubhab/Flight_Fare_Prediction/issues) here by including your search query and the expected result
+
+If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an [issue](https://github.com/maityanubhab/Flight_Fare_Prediction/issues) here by including your search query and the expected result
 
 ## Future Scope
 * Use multiple Algorithm
