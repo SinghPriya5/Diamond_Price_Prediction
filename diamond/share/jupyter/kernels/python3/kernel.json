@@ -1,0 +1,14 @@
+{
+ "argv": [
+  "C:/Users/Priya/Desktop/Diamond_Price_Prediction/diamond\\python.exe",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "Python 3 (ipykernel)",
+ "language": "python",
+ "metadata": {
+  "debugger": true
+ }
+}

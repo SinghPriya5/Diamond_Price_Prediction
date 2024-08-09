@@ -1,0 +1,33 @@
+{
+  "build": "4_cp310",
+  "build_number": 4,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [
+    "python 3.10.* *_cpython"
+  ],
+  "depends": [],
+  "extracted_package_dir": "C:\\Users\\Priya\\anaconda3\\pkgs\\python_abi-3.10-4_cp310",
+  "files": [
+    ".nonadmin"
+  ],
+  "fn": "python_abi-3.10-4_cp310.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "C:\\Users\\Priya\\anaconda3\\pkgs\\python_abi-3.10-4_cp310",
+    "type": 1
+  },
+  "md5": "b41195997c14fb7473d26637ea4c3946",
+  "name": "python_abi",
+  "package_tarball_full_path": "C:\\Users\\Priya\\anaconda3\\pkgs\\python_abi-3.10-4_cp310.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "19066c462fd0e32c64503c688f77cb603beb4019b812caf855d03f2a5447960b",
+  "size": 6773,
+  "subdir": "win-64",
+  "timestamp": 1695147715000,
+  "url": "https://conda.anaconda.org/conda-forge/win-64/python_abi-3.10-4_cp310.conda",
+  "version": "3.10"
+}

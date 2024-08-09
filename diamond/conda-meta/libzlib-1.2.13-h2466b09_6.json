@@ -1,0 +1,54 @@
+{
+  "build": "h2466b09_6",
+  "build_number": 6,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [
+    "zlib 1.2.13 *_6"
+  ],
+  "depends": [
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30139"
+  ],
+  "extracted_package_dir": "C:\\Users\\Priya\\anaconda3\\pkgs\\libzlib-1.2.13-h2466b09_6",
+  "files": [
+    "Library/bin/zlib.dll",
+    "zlib.dll",
+    ".nonadmin"
+  ],
+  "fn": "libzlib-1.2.13-h2466b09_6.conda",
+  "license": "Zlib",
+  "link": {
+    "source": "C:\\Users\\Priya\\anaconda3\\pkgs\\libzlib-1.2.13-h2466b09_6",
+    "type": 1
+  },
+  "md5": "9f41e3481778398837720a84dd26b7b1",
+  "name": "libzlib",
+  "package_tarball_full_path": "C:\\Users\\Priya\\anaconda3\\pkgs\\libzlib-1.2.13-h2466b09_6.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/zlib.dll",
+        "path_type": "hardlink",
+        "sha256": "a1dcb9b391cdfa3700b739c89a1214745159a96615d75040010d3461497da609",
+        "sha256_in_prefix": "a1dcb9b391cdfa3700b739c89a1214745159a96615d75040010d3461497da609",
+        "size_in_bytes": 89088
+      },
+      {
+        "_path": "zlib.dll",
+        "path_type": "hardlink",
+        "sha256": "a1dcb9b391cdfa3700b739c89a1214745159a96615d75040010d3461497da609",
+        "sha256_in_prefix": "a1dcb9b391cdfa3700b739c89a1214745159a96615d75040010d3461497da609",
+        "size_in_bytes": 89088
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "97f47db85265b596d08c044b6533013b7286fb66259c77d04da76b74414c896e",
+  "size": 56119,
+  "subdir": "win-64",
+  "timestamp": 1716874608000,
+  "url": "https://conda.anaconda.org/conda-forge/win-64/libzlib-1.2.13-h2466b09_6.conda",
+  "version": "1.2.13"
+}

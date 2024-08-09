@@ -1,0 +1,33 @@
+{
+  "build": "h3bf8584_20",
+  "build_number": 20,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "vc14_runtime >=14.40.33810"
+  ],
+  "extracted_package_dir": "C:\\Users\\Priya\\anaconda3\\pkgs\\vs2015_runtime-14.40.33810-h3bf8584_20",
+  "files": [
+    ".nonadmin"
+  ],
+  "fn": "vs2015_runtime-14.40.33810-h3bf8584_20.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "C:\\Users\\Priya\\anaconda3\\pkgs\\vs2015_runtime-14.40.33810-h3bf8584_20",
+    "type": 1
+  },
+  "md5": "c21f1b4a3a30bbc3ef35a50957578e0e",
+  "name": "vs2015_runtime",
+  "package_tarball_full_path": "C:\\Users\\Priya\\anaconda3\\pkgs\\vs2015_runtime-14.40.33810-h3bf8584_20.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "0c2803f7a788c51f28235a7228dc2ab3f107b4b16ab0845a3e595c8c51e50a7a",
+  "size": 17395,
+  "subdir": "win-64",
+  "timestamp": 1717709043000,
+  "url": "https://conda.anaconda.org/conda-forge/win-64/vs2015_runtime-14.40.33810-h3bf8584_20.conda",
+  "version": "14.40.33810"
+}

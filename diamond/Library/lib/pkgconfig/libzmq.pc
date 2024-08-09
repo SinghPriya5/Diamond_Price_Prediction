@@ -1,0 +1,12 @@
+prefix=C:/Users/Priya/Desktop/Diamond_Price_Prediction/diamond/Library
+exec_prefix=C:/Users/Priya/Desktop/Diamond_Price_Prediction/diamond/Library
+libdir=C:/Users/Priya/Desktop/Diamond_Price_Prediction/diamond/Library/lib
+includedir=C:/Users/Priya/Desktop/Diamond_Price_Prediction/diamond/Library/include
+
+Name: libzmq
+Description: 0MQ c++ library
+Version: 4.3.5
+Libs: -L${libdir} -lzmq
+Libs.private: -lstdc++ 
+Requires.private: 
+Cflags: -I${includedir} 
