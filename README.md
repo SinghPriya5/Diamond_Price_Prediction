@@ -115,7 +115,7 @@ Jupyter Notebook,VS Code,PyCham
 <b>Retraining: Periodically retrain the model with new data to maintain accuracy as market conditions change.</b>
 
 ## Deployed:
-Deployed on heroku -- [Link](https://flight-fare-prediction.herokuapp.com/)
+Deployed on heroku -- [Link](https://github.com/SinghPriya5/Diamond_Price_Prediction/issues)
 
 <br> the instruction given on [Heroku Documentation](https://devcenter.heroku.com/articles/getting-started-with-python) to deploy a web app.
 
