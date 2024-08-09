@@ -43,7 +43,7 @@ learning algorithms that’s best fit for the above case.
 
 ## Data Collection:
 <ul>
-<li><b>Dataset link :</b></li> - [Dataset](https://www.kaggle.com/datasets/nikhilmittal/flight-fare-prediction-mh)
+<li><b>Dataset link :</b></li> - [Dataset](https://github.com/SinghPriya5/Diamond_Price_Prediction/commit/e4dc6a257d6b35cb57e66826a7ac36eb393ff225#diff-39848c601d6cbb866f8bad5bbb176d61062a4169f64fd86a5fffbae77eff78e8)
 <li><b>Dataset:</b></li> Obtain a dataset containing various diamond attributes and their corresponding prices.
 <li><b>Example Features:</b></li>
 <b>id :</b> unique identifier of each diamond
