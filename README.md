@@ -130,6 +130,7 @@ Deployed on Render -- [Link](https://github.com/SinghPriya5/Diamond_Price_Predic
 
 ## Web View:
 <h4><b>Frontend</b></h4> <img align="center" width="300" height="400" src="https://github.com/SinghPriya5/Diamond_Price_Prediction/blob/main/static/images/Frontend.png">&nbsp;&nbsp;&nbsp; <!-- Three non-breaking spaces --><h4><b>Inserting Value</b></h4> <img align="center" width="300" height="400" src="https://github.com/SinghPriya5/Diamond_Price_Prediction/blob/main/static/images/Frontend1.png"> &nbsp;&nbsp;&nbsp; <!-- Three non-breaking spaces --><h4><b>Predicted Value</b></h4> <img align="center" width="300" height="400" src="https://github.com/SinghPriya5/Diamond_Price_Prediction/blob/main/static/images/Frontend2.png">
+
 ## Bug or Feature Request
 
 If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an [issue](https://github.com/maityanubhab/Flight_Fare_Prediction/issues) here by including your search query and the expected result
