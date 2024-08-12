@@ -115,9 +115,9 @@ Jupyter Notebook,VS Code,PyCham
 <b>Retraining: Periodically retrain the model with new data to maintain accuracy as market conditions change.</b>
 
 ## Deployed:
-Deployed on heroku -- [Link](https://github.com/SinghPriya5/Diamond_Price_Prediction/issues)
+Deployed on Render -- [Link](https://github.com/SinghPriya5/Diamond_Price_Prediction/issues)
 
-<br> the instruction given on [Heroku Documentation](https://devcenter.heroku.com/articles/getting-started-with-python) to deploy a web app.
+<br> the instruction given on [Render Documentation](https://docs.render.com/deploy-flask) to deploy a web app.
 
 <b>Model Deployment:</b> Deploy the model to a production environment where it can make real-time predictions.
 
@@ -129,7 +129,7 @@ Deployed on heroku -- [Link](https://github.com/SinghPriya5/Diamond_Price_Predic
 <b>Partial Dependence Plots:</b>Visualize how changes in a single feature affect the predicted price, holding other features constant.
 
 ## Web View:
-<img align="center" width="300" height="400" src="https://github.com/SinghPriya5/Diamond_Price_Prediction/blob/main/static/images/Frontend.png"> &nbsp;&nbsp;&nbsp; <!-- Three non-breaking spaces --><img align="center" width="300" height="400" src="https://github.com/SinghPriya5/Diamond_Price_Prediction/blob/main/static/images/Frontend1.png"> &nbsp;&nbsp;&nbsp; <!-- Three non-breaking spaces --><img align="center" width="300" height="400" src="https://github.com/SinghPriya5/Diamond_Price_Prediction/blob/main/static/images/Frontend2.png">
+<h4><center><b>Frontend<b></center></h4> <img align="center" width="300" height="400" src="https://github.com/SinghPriya5/Diamond_Price_Prediction/blob/main/static/images/Frontend.png">&nbsp;&nbsp;&nbsp; <!-- Three non-breaking spaces --><img align="center" width="300" height="400" src="https://github.com/SinghPriya5/Diamond_Price_Prediction/blob/main/static/images/Frontend1.png"> &nbsp;&nbsp;&nbsp; <!-- Three non-breaking spaces --><img align="center" width="300" height="400" src="https://github.com/SinghPriya5/Diamond_Price_Prediction/blob/main/static/images/Frontend2.png">
 ## Bug or Feature Request
 
 If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an [issue](https://github.com/maityanubhab/Flight_Fare_Prediction/issues) here by including your search query and the expected result
