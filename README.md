@@ -129,7 +129,19 @@ Deployed on Render -- [Link](https://github.com/SinghPriya5/Diamond_Price_Predic
 <b>Partial Dependence Plots:</b>Visualize how changes in a single feature affect the predicted price, holding other features constant.
 
 ## Web View:
-<h4><b>Frontend</b></h4> <img align="center" width="300" height="400" src="https://github.com/SinghPriya5/Diamond_Price_Prediction/blob/main/static/images/Frontend.png">&nbsp;&nbsp;&nbsp; <!-- Three non-breaking spaces --><h4><b>Inserting Value</b></h4> <img align="center" width="300" height="400" src="https://github.com/SinghPriya5/Diamond_Price_Prediction/blob/main/static/images/Frontend1.png"> &nbsp;&nbsp;&nbsp; <!-- Three non-breaking spaces --><h4><b>Predicted Value</b></h4> <img align="center" width="300" height="400" src="https://github.com/SinghPriya5/Diamond_Price_Prediction/blob/main/static/images/Frontend2.png">
+## Frontend
+
+<p align="center">
+  <img src="https://github.com/SinghPriya5/Diamond_Price_Prediction/blob/main/static/images/Frontend.png" alt="Frontend" width="700" height="900">
+</p>
+
+## Inserting Value and Predicted Value
+
+<p align="center">
+  <img src="https://github.com/SinghPriya5/Diamond_Price_Prediction/blob/main/static/images/Frontend1.png" alt="Inserting Value" width="500" height="700">
+  <img src="https://github.com/SinghPriya5/Diamond_Price_Prediction/blob/main/static/images/Frontend2.png" alt="Predicted Value" width="500" height="700">
+</p>
+
 
 ## Bug or Feature Request
 
