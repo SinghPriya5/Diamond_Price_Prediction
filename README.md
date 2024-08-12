@@ -133,7 +133,7 @@ Deployed on Render -- [Link](https://github.com/SinghPriya5/Diamond_Price_Predic
 
 ## Bug or Feature Request
 
-If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an [issue](https://github.com/maityanubhab/Flight_Fare_Prediction/issues) here by including your search query and the expected result
+If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an [issue](https://github.com/SinghPriya5/Diamond_Price_Prediction/issues) here by including your search query and the expected result
 
 ## Future Scope
 * Use multiple Algorithm
